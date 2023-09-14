@@ -1,3 +1,6 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": [
+    "@rocketseat/eslint-config-rocketseat/next",
+    "next/core-web-vitals"
+  ]
 }
