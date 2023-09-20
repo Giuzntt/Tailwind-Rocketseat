@@ -1,9 +1,10 @@
-import Button from "./components/Button";
+import { SettingsTabs } from "./components/SettingsTabs";
 
 export default function Home() {
   return (
-    <h1 className="text-4xl text-center flex items-center gap-5 before:w-0.5 before:h-7 before:bg-sky-500 before:flex">
-      Hello World
-    </h1>
+    <>
+      <h1 className="text-3xl  font-medium text-zinc-900">Settings</h1>
+      <SettingsTabs />
+    </>
   );
 }

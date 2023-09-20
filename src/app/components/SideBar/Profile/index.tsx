@@ -11,7 +11,7 @@ export function Profile() {
       <div className="flex flex-col truncate">
         <span className="font-semibold text-zinc-800">Giulianno Zanetti</span>
         <span className="text-sm text-zinc-500 truncate">
-          asaassasaasasaasasgiuzntt@gmail.com
+          giuzntt@gmail.com
         </span>
       </div>
       <button
